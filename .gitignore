@@ -42,3 +42,9 @@ Thumbs.db
 
 # HuggingFace cache
 ~/.cache/huggingface/
+
+# Model checkpoints and fine-tuning output
+test-trainer/
+results/
+*.safetensors
+*.bin
